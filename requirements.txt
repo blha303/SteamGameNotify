@@ -1,0 +1,7 @@
+PyYAML==3.11
+Twisted==14.0.2
+argparse==1.2.1
+requests==2.3.0
+steamapi==0.1
+wsgiref==0.1.2
+zope.interface==4.1.1
