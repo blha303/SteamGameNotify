@@ -1,0 +1,5 @@
+steam_api_key: "http://steamcommunity.com/dev/apikey"
+host: irc.esper.net
+port: 6667
+nick: SteamBuyTest
+channels: ["#blha303"]
